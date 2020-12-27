@@ -1,0 +1,36 @@
+section { 
+min-height: 480px;
+}
+
+
+.jumbotron {    
+    background-image: url(../assets/img/Background/photography.png);
+    background-attachment: fixed;
+    background-position: center;
+
+}
+
+.works {
+    background-image: url(../assets/img/Background/photography.png);
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.about p span {
+    color: red;
+}
+
+
+.works img {
+    height: 420px;
+}
+
+.tools .card {
+    height: 300px;
+}
+
+.tools img {
+    height: 100px;
+    width: 100px;
+    
+}
